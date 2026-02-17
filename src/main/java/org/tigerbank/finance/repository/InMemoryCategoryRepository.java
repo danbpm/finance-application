@@ -9,7 +9,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.*;
 
 @Repository
-public class InMemoryCategory implements  ICategoryRepository {
+public class InMemoryCategoryRepository implements  ICategoryRepository {
     private final Map<UUID, Category> storage = new ConcurrentHashMap<>();
 
     @Override
