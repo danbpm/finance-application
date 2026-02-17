@@ -128,4 +128,4 @@ test/
 5. Доменные сущности без зависимостей. Следовательно, можно использовать в другом проекте и при использовании другого фреймворка.   
 
 ## Cсылка на скринкаст
-https://drive.google.com/drive/folders/1wmYJFfVTS321YQZQTCZ2_XD0Wjsi88xZ
+https://drive.google.com/file/d/1d47c7HOny9tBMcE95gLOYRI516yj04u9/view?usp=sharing
